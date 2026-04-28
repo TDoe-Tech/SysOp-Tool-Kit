@@ -56,8 +56,8 @@ A unified IT operations dashboard demonstrating my skills across CompTIA **A+**,
 
 ```bash
 # Clone the repo
-git clone https://github.com/TDoe-Tech/sysops-toolkit.git
-cd sysops-toolkit
+git clone https://github.com/TDoe-Tech/SysOps-Tool-Kit.git
+cd SysOps-Tool-Kit
 
 # Install dependencies
 pip install -r requirements.txt

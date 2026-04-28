@@ -129,7 +129,14 @@ sysops-toolkit/
 
 ## Screenshots
 
-> \*(Add screenshots of the dashboard here after running locally)\*
+
+<img width="1389" height="862" alt="image" src="https://github.com/user-attachments/assets/56d6998a-f56d-4a0c-a012-b5d249528ea2" />
+        
+<img width="1389" height="728" alt="image" src="https://github.com/user-attachments/assets/5c7ae48a-a71b-4bc8-ba8d-ceef647f1fc2" />
+    
+<img width="1390" height="859" alt="image" src="https://github.com/user-attachments/assets/057bc0e7-419a-49d1-9fea-4f8eb859088d" />
+
+<img width="1378" height="859" alt="image" src="https://github.com/user-attachments/assets/352c86eb-5aaf-45e9-bee9-e72a61aa4abb" />
 
 \---
 
